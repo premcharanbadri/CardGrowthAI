@@ -1,5 +1,9 @@
 # CardGrowthAI : Small-Business Card Acquisition & Product Economics
 
+
+#### Live Demo: https://premcharanbadri.github.io/CardGrowthAI/
+
+
 ## Executive question
 
 How should a small-business-card issuer allocate a finite marketing budget among standard experience, cash-flow-tools onboarding, and rewards experience in order to improve **incremental first-year risk-adjusted contribution** rather than raw application volume?
