@@ -1,6 +1,4 @@
-# CardGrowth AI — Small-Business Card Acquisition & Product Economics
-
-> **Synthetic independent portfolio case study, 2026.** No real customers, bank-client data, credit decisions, production deployment, realized savings, or actual past-employer attribution. Built to demonstrate senior business analyst decision-making for a card issuer.
+# CardGrowthAI : Small-Business Card Acquisition & Product Economics
 
 ## Executive question
 
@@ -75,10 +73,4 @@ Open `docs/index.html` directly in a browser for a server-free case study.
 5. Maintain experiment logs, data lineage, challenge results, human approvals, and rollback triggers.
 6. Consider a more powerful randomized policy evaluation (e.g. doubly robust estimation) and a full-scale mixed-integer solver only after establishing real data and business feasibility.
 
-Regulatory context: https://www.consumerfinance.gov/1071-rule/ (check current scope and applicability); role context: https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Sr-Business-Analyst---Business-Cards---Payments_R245733 .
-
-## What to say in an interview
-
-> "I built a synthetic randomized acquisition lab to examine whether personalized marketing improved contribution, not merely applications. I compared response-model complexity, used expected approval and activation plus offer costs to make budget-limited decisions, and validated the policy with randomized off-policy estimation. The model-predicted result overestimated known simulation value, and the confidence interval included zero, so my recommendation was not to launch: I proposed a better powered experiment and economic guardrails instead."
-
-This is a **portfolio statement**, not an assertion of client delivery or historical employment experience.
+Regulatory context: https://www.consumerfinance.gov/1071-rule/ (check current scope and applicability)
