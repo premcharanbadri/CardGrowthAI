@@ -1,0 +1,24 @@
+{
+  "subset": "300 synthetic out-of-time prospects sampled with random_state=73",
+  "constraints": {
+    "budget": 50,
+    "max_contacts": 190
+  },
+  "greedy": {
+    "contacts": 50,
+    "budget_spent": 49.4,
+    "estimated_incremental": 1570.29,
+    "cashflow_selected": 14,
+    "rewards_selected": 36
+  },
+  "milp": {
+    "objective": 1600.25,
+    "contacts": 53,
+    "budget_used": 49.9,
+    "optimal_certificate": true,
+    "solver_status": 0
+  },
+  "incremental_milp_gain_vs_greedy": 29.96,
+  "relative_gain_percent": 1.91,
+  "caution": "Exact on a small fixed subset; final portfolio policy still uses greedy, not guaranteed globally optimal."
+}
